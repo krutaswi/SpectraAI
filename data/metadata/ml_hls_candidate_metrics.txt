@@ -1,0 +1,18 @@
+SPECTRAAI — HLS QUALITY MODEL EXPERIMENT
+========================================
+Complete tile observations discovered: 34
+Successfully processed tile observations: 34
+Unique acquisitions: 20
+Skipped tile observations: 0
+Split grouping: acquisition_id (date + area_id; tile excluded)
+Training acquisitions: 15
+Testing acquisitions: 5
+Shared acquisitions: 0
+Training samples: 806
+Testing samples: 248
+Candidate accuracy: 0.7863
+Original baseline accuracy on same test rows: 0.6048
+
+LIMITATION: All reference labels are derived from controlled synthetic
+degradation severity. This is not validation against independently
+labelled real-world image quality.
